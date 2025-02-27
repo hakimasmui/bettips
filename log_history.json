@@ -19,7 +19,7 @@
     "overUnder": "U 3",
     "hdp": "H -1",
     "ganjilGenap": "2-0",
-    "result":[true, false, false]
+    "result":[true, true, false]
   },
   {
     "tanggal": "2025-02-27 02:30",
@@ -29,7 +29,8 @@
     "away": "Ipswich Town",
     "overUnder": "-",
     "hdp": "-",
-    "ganjilGenap": "-"
+    "ganjilGenap": "-",
+    "result":[true, true, true]
   },
   {
     "tanggal": "2025-02-27 02:30",
@@ -39,7 +40,8 @@
     "away": "Manchester City",
     "overUnder": "-",
     "hdp": "-",
-    "ganjilGenap": "-"
+    "ganjilGenap": "-",
+    "result":[true, false, true]
   },
   {
     "tanggal": "2025-02-27 02:30",
@@ -49,7 +51,8 @@
     "away": "Arsenal",
     "overUnder": "-",
     "hdp": "-",
-    "ganjilGenap": "-"
+    "ganjilGenap": "-",
+    "result":[false, true, true]
   },
   {
     "tanggal": "2025-02-27 03:15",
@@ -59,6 +62,7 @@
     "away": "Newcastle United",
     "overUnder": "-",
     "hdp": "-",
-    "ganjilGenap": "-"
+    "ganjilGenap": "-",
+    "result":[false, false, true]
   }
 ]
