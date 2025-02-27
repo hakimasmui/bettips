@@ -1,4 +1,64 @@
-{
-  "start":1,
-  "end":1
-}
+[
+  {
+    "tanggal": "2025-02-26 03:15",
+    "imgHome": "https://img0.aiscore.com/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png!w30",
+    "home": "Chelsea",
+    "imgAway": "https://img0.aiscore.com/football/team/4623d3fa1cda20d1f289dce9dc803527.png!w30",
+    "away": "Southampton",
+    "overUnder": "U 3.5",
+    "hdp": "A +2/2.5",
+    "ganjilGenap": "2-0",
+    "result":[true, false, false]
+  },
+  {
+    "tanggal": "2025-02-26 03:30",
+    "imgHome": "https://img0.aiscore.com/football/team/f378eb1ea04e53999b89051aa3244de6.png!w30",
+    "home": "Barcelona",
+    "imgAway": "https://img0.aiscore.com/football/team/390977b0421bce136c562057ea171ecf.png!w30",
+    "away": "Atletico Madrid",
+    "overUnder": "U 3",
+    "hdp": "H -1",
+    "ganjilGenap": "2-0",
+    "result":[true, false, false]
+  },
+  {
+    "tanggal": "2025-02-27 02:30",
+    "imgHome": "https://img0.aiscore.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png!w30",
+    "home": "Manchester United",
+    "imgAway": "https://img0.aiscore.com/football/team/cec3eaaa5271c1f2f036469593ecbcd8.png!w30",
+    "away": "Ipswich Town",
+    "overUnder": "-",
+    "hdp": "-",
+    "ganjilGenap": "-"
+  },
+  {
+    "tanggal": "2025-02-27 02:30",
+    "imgHome": "https://img0.aiscore.com/football/team/8b22ab4041e666b996a2d96f20dea707.png!w30",
+    "home": "Tottenham Hotspur",
+    "imgAway": "https://img0.aiscore.com/football/team/c4a6528a2ee147b99c9885ef24385a4e.png!w30",
+    "away": "Manchester City",
+    "overUnder": "-",
+    "hdp": "-",
+    "ganjilGenap": "-"
+  },
+  {
+    "tanggal": "2025-02-27 02:30",
+    "imgHome": "https://img0.aiscore.com/football/team/0ec2f07e39b8f7b8139684093c894c88.png!w30",
+    "home": "Nottingham Forest",
+    "imgAway": "https://img0.aiscore.com/football/team/2122445133f0eeeecbb61fe49fb69022.png!w30",
+    "away": "Arsenal",
+    "overUnder": "-",
+    "hdp": "-",
+    "ganjilGenap": "-"
+  },
+  {
+    "tanggal": "2025-02-27 03:15",
+    "imgHome": "https://img0.aiscore.com/football/team/1cb3d08adac0e2dc1c4f10429d055bfe.png!w30",
+    "home": "Liverpool",
+    "imgAway": "https://img0.aiscore.com/football/team/5dbe320855e3ba772dbce54f940c6fa5.png!w30",
+    "away": "Newcastle United",
+    "overUnder": "-",
+    "hdp": "-",
+    "ganjilGenap": "-"
+  }
+]
